@@ -1,0 +1,63 @@
+#logo img {
+  display: block;
+  padding-top: 195px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#searchbar {
+  padding-top: 15px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#searchbar #search {
+  padding: 0;
+  margin-bottom: 35px;
+  width: 100%;
+  height: 35px;
+}
+
+#searchbar #search-submit {
+  float: left;
+  margin-left: 30%;
+  height: 29px;
+}
+
+#searchbar #lucky-submit {
+    float:right;
+    margin-right: 30%;
+    height: 29px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#footer li {
+  display: inline;
+  width: 100%;
+}
+
+#footer #footer-left {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#footer #footer-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
